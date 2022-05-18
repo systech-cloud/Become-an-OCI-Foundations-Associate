@@ -1,0 +1,33 @@
+Welcome to the Oracle Cloud Infrastructure Foundation Certification course. 
+I'm so glad you are here. This course is created specifically for you to start 
+learning Oracle Cloud Infrastructure and become well versed in OCI fundamentals.
+
+My name is Rohit Rahi, and I'm part of the Oracle Cloud team. 
+I'll be your instructor for this course. 
+I have been fortunate to spend more than 10 years in the cloud space and be part 
+of the Oracle Cloud team from the very start.
+
+My team builds OCI certification and trainings. And in the past few years, 
+we have trained hundreds and thousands of learners on Oracle Cloud Infrastructure. 
+This course will give you the knowledge, skills, and the confidence to pass the 
+OCI Foundations Exam and beyond that, give you the foundational knowledge needed for OCI projects.
+
+The course will cover all the areas of the OCI Foundations Exam. 
+We will start with a quick introduction of the OCI platform, and then we will dive deep 
+into the core primitives, compute, storage, networking, identity, databases, security, and more. 
+I will cover event driven architectures and developer services. 
+I will also discuss our Observability and Management platform and Hybrid Capabilities. 
+And last but not least, I will discuss our differentiated pricing, SLA, and support options.
+
+At the start of the course, I will show you how to create an Oracle Cloud Free Tier 
+account and demo several services and features using this free tier account. 
+I hope you will create your own free tier account and follow along.
+
+Throughout the course, I will be using fun analogies to explain complex topics 
+and leverage visual slides to help you better retain information. 
+There is a skills check at the end of every module. So you can validate your 
+knowledge and gain the confidence to pass the exam.
+
+And finally, we understand you are busy. So most of our course lessons are 
+less than 5 minutes long. Our goal is to help you retain information and keep you engaged. 
+I hope you are as excited as I am to start this course. Thanks for enrolling. Let's begin.
